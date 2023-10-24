@@ -4,7 +4,7 @@
     flake-utils.url = "github:numtide/flake-utils";
     devenv.url = "github:cachix/devenv";
     chainweb-node.url = "github:kadena-io/chainweb-node";
-    chainweb-node-l2.url = "github:kadena-io/chainweb-node/edmund/l2-spv-poc";
+    chainweb-node-l2.url = "github:EnoF/chainweb-node/edmund/l2-spv-poc";
     chainweb-data.url = "github:kadena-io/chainweb-data";
     chainweb-mining-client.url = "github:kadena-io/chainweb-mining-client/enis/update-to-flakes-and-haskellNix";
     pact.url = "github:kadena-io/pact";
